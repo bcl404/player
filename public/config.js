@@ -13,7 +13,7 @@ window.__CONFIG__ = {
   VITE_NORMAL_ROUTER: true,
 
   // The backend URL to communicate with
-  VITE_BACKEND_URL: "backend-production-ceb8.up.railway.app",
+  VITE_BACKEND_URL: "https://backend-production-ceb8.up.railway.app",
 
   // A comma separated list of disallowed IDs in the case of a DMCA claim - in the format "series-<id>" and "movie-<id>"
   VITE_DISALLOWED_IDS: "",
